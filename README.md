@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is John Rampono and I am Data & AI CTO working for Microsoft and based in Australia.  
+My name is John Rampono and I am a Data & AI CTO working for Microsoft and based in Australia.  
 
 ### :fire: My Stats :
 ![John Rampono's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrampono&theme=dark&show_icons=true&include_all_commits=true)
