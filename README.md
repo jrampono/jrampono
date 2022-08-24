@@ -33,10 +33,10 @@ My name is John Rampono and I am a Data & AI CTO working for Microsoft and based
 ### Other Accounts 📫
 You can find and get touch with me on these accounts!
 <div>
-  <a href="https://www.linkedin.com/in/john-rampono">
+  <a href="https://github.com/jrampono">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://github.com/jrampono">
+  <a href="https://www.linkedin.com/in/john-rampono">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
   </a>
 </div>
