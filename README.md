@@ -8,7 +8,6 @@ My name is John Rampono and I am a Data & AI CTO working for Microsoft and based
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrampono&theme=dark)](https://github.com/jrampono/github-readme-stats)
-### Programming Languages 🌐
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -30,7 +29,7 @@ My name is John Rampono and I am a Data & AI CTO working for Microsoft and based
 
 
 
-### Other Accounts 📫
+### 📫 Other Accounts 
 You can find and get touch with me on these accounts!
 <div>
   <a href="https://github.com/jrampono">
