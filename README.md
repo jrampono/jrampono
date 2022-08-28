@@ -25,7 +25,8 @@ My name is John Rampono and I am a Data & AI CTO working for Microsoft and based
    <a><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
    
 
-
+<a><img src="https://github.com/David-Summers/Azure-Design/blob/3b1e8385f813d08ff3c55b0e49c0ea1d2b602343/PNG_Azure_Grouped/Data/Data Factory.png" title="Azure" alt="Azure" width="40" height="40"/></a>
+   
 
 ### 📫 Other Accounts 
 You can find and get touch with me on these accounts!
