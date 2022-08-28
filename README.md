@@ -12,8 +12,8 @@ My name is John Rampono and I am a Data & AI CTO working for Microsoft and based
 ### :hammer_and_wrench: Languages and Tools :
 
   <a><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/></a>
-   <a><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
-   <a><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
+   <a><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>
+   <a><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/></a>
    <a><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VsCode" width="40" height="40"/></a>
    <a><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>
    <a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/></a>
