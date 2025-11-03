@@ -3,7 +3,7 @@
 My name is John Rampono and I lead a team of specialised Data & AI consultants working working across Australia and New Zealand.  
 
 ### :fire: My Stats :
-![John Rampono's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrampono&show_icons=true&include_all_commits=true&theme=dark)
+![John Rampono's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrampono&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jrampono&theme=dark)](https://git.io/streak-stats)
 
 ![John Rampono's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrampono&show_icons=true&theme=radical)
